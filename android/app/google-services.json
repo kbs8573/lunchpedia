@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "114500384122",
+    "project_id": "lunchpedia-5ce81",
+    "storage_bucket": "lunchpedia-5ce81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114500384122:android:a083a2c2d50ddfdf3e92c3",
+        "android_client_info": {
+          "package_name": "com.kbs.lunchpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114500384122-eib699j03iv1mu5j4pe9od1kchfpg2ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6w0cgl_oE_-jW8-l7PRT2xU9kU6hmjMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114500384122-eib699j03iv1mu5j4pe9od1kchfpg2ev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114500384122-a5bt8pm3q0nqhrvr7jonmlb3omh9nnia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kbs.lunchpedia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
